@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-06T07:28:40Z" name="Default suite" finished-at="2024-07-06T07:28:49Z" duration-ms="9041">
+    <groups>
+    </groups>
+    <test started-at="2024-07-06T07:28:40Z" name="Default test" finished-at="2024-07-06T07:28:49Z" duration-ms="9041">
+      <class name="com.swaggerpojo.SwaggerDoc">
+        <test-method signature="login()[pri:1, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:40Z" name="login" finished-at="2024-07-06T07:28:43Z" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addAddress()[pri:2, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:43Z" name="addAddress" finished-at="2024-07-06T07:28:44Z" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method signature="updateAddress()[pri:3, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:44Z" name="updateAddress" finished-at="2024-07-06T07:28:45Z" duration-ms="704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAddress -->
+        <test-method signature="getUserAddress()[pri:4, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:45Z" name="getUserAddress" finished-at="2024-07-06T07:28:46Z" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserAddress -->
+        <test-method signature="deleteAddress()[pri:5, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:46Z" name="deleteAddress" finished-at="2024-07-06T07:28:46Z" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+        <test-method signature="searchProduct()[pri:6, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:46Z" name="searchProduct" finished-at="2024-07-06T07:28:47Z" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="stateList()[pri:7, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:47Z" name="stateList" finished-at="2024-07-06T07:28:48Z" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stateList -->
+        <test-method signature="cityList()[pri:8, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:48Z" name="cityList" finished-at="2024-07-06T07:28:49Z" duration-ms="1006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cityList -->
+        <test-method signature="changeProfilePic()[pri:9, instance:com.swaggerpojo.SwaggerDoc@16eccb2e]" started-at="2024-07-06T07:28:49Z" name="changeProfilePic" finished-at="2024-07-06T07:28:49Z" duration-ms="825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeProfilePic -->
+      </class> <!-- com.swaggerpojo.SwaggerDoc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

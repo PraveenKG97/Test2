@@ -1,0 +1,13 @@
+package com.datas;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Data
+public class GlobalDatas {
+
+		private int statusCode;
+}
